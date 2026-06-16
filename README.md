@@ -1,4 +1,4 @@
-<img src="<img width="800" height="800" alt="Wilmington University Grad Pic" src="https://github.com/user-attachments/assets/984e9657-c40d-4179-ad2f-f708142437a4" />
+<img src="<img width="1983" height="793" alt="Git Hub profile banner" src="https://github.com/user-attachments/assets/5744dd7e-3d83-40e6-93ea-854dfa868487" />
 " width="100%">
 
 # Hi, I'm Peter Kpan III 👋
