@@ -1,5 +1,5 @@
-<img src="<img width="1983" height="793" alt="Git Hub profile banner" src="https://github.com/user-attachments/assets/5744dd7e-3d83-40e6-93ea-854dfa868487" />
-" width="100%">
+<img width="1983" height="793" alt="Git Hub profile banner" src="https://github.com/user-attachments/assets/5744dd7e-3d83-40e6-93ea-854dfa868487" />
+
 
 # Hi, I'm Peter Kpan III 👋
 
