@@ -1,3 +1,6 @@
+<img src="<img width="800" height="800" alt="Wilmington University Grad Pic" src="https://github.com/user-attachments/assets/984e9657-c40d-4179-ad2f-f708142437a4" />
+" width="100%">
+
 # Hi, I'm Peter Kpan III 👋
 
 ## Cybersecurity Graduate | Aspiring SOC Analyst | IT Infrastructure Support
